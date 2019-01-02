@@ -1,0 +1,22 @@
+Flatiron School Cafe Menu
+
+
+Appetizers
+
+Nachos - $10
+Calamari - $12
+3 Cheese Platter - $8.75
+
+Entrees
+
+Chicken Sandwich - $16.95
+A fried chicken sandwich with lettuce, tomato, and mayo. Add cheese for $1.50
+
+Flatiron Steak - $22
+A prime cut of Flatiron Steak, cooked to your liking. Comes with a side of vegetables. Add a salad or cup of soup for $3
+
+Garden Salad - $14
+A salad with stuff from the garden on our roof. 3 types of dressing available.
+
+
+Want to place an order for delivery? Call us at (555) 123-8452!
