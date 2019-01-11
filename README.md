@@ -551,6 +551,6 @@ digits
 
 
 
-# Summary
+## Summary
 
 In this lab, we got some practice in using regex to filter text!
