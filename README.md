@@ -1,5 +1,5 @@
 
-# Regular Expressions - Lab
+# Regular Expressions - Codealong
 
 ## Introduction
 
