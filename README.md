@@ -21,7 +21,7 @@ For our source material, we'll be searching through the file `restaurant.txt`.  
 
 ## Using Regex Testers
 
-Working with regex patterns is an iterative process--it's quite rare that we'll write the pattern that does exactly what we want while capturing all edge cases the first time through. To make matters simpler, most developers and data scientists make use of popular regex tester websites, which allow you to put in a block of text and and test your patterns by quickly seeing visually how what a pattern will grab out of the the text block. During this lab, we strongly recommend you take some time to use a regex tester website such as [Regex Pal](https://www.regexpal.com/) or [regexr](https://regexr.com/) so that you can visually inspect how changing your regex pattern affects your results when working towards a correct answer! 
+Working with regex patterns is an iterative process--it's quite rare that we'll write the pattern that does exactly what we want while capturing all edge cases the first time through. To make matters simpler, most developers and data scientists make use of popular regex tester websites, which allow you to put in a block of text and test your patterns by quickly seeing visually how what a pattern will grab out of the text block. During this lab, we strongly recommend you take some time to use a regex tester website such as [Regex Pal](https://www.regexpal.com/) or [regexr](https://regexr.com/) so that you can visually inspect how changing your regex pattern affects your results when working towards a correct answer! 
 
 ## Regex Cheat Sheet
 
@@ -74,7 +74,7 @@ Let's try modifying our pattern, so that it only gets numbers with a dollar sign
 
 #### Escaping Metacharacters
 
-In regex, the dollar sign is a **_Metacharacter_**. This character means something. We can't just use the dollarsign in a pattern, anymore that we can use a reserved keyword like `for` as a varaible name in python. Since the dollar sign is a reserved symbol in regex, we'll need to escape it using a `\`.  This tells the regex compiler that we are talking about the actual dollar sign symbol, not using it to talk about the end of a string. 
+In regex, the dollar sign is a **_Metacharacter_**. This character means something. We can't just use the dollar sign in a pattern, anymore that we can use a reserved keyword like `for` as a variable name in python. Since the dollar sign is a reserved symbol in regex, we'll need to escape it using a `\`.  This tells the regex compiler that we are talking about the actual dollar sign symbol, not using it to talk about the end of a string. 
 In the cell below:
 
 * Modify the pattern so that it includes a dollar sign, followed by a digit character class. 
@@ -107,7 +107,7 @@ digits
 This seems to have worked for some, but not all. It also left out any prices have less than 3 characters after the initial match, such as \$10. 
 
 
-We need to crete a pattern that gets all the numbers in a price. To do this, we'll make use of groups and ranges!
+We need to create a pattern that gets all the numbers in a price. To do this, we'll make use of groups and ranges!
 
 ### Using Groups, Ranges, and Quantifiers
 
