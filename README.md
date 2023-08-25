@@ -1,4 +1,3 @@
-
 # Regular Expressions - Codealong
 
 ## Introduction
@@ -26,7 +25,7 @@ When learning regex, the symbols and notation for patterns can seem a bit intimi
 
 For reference, we've embedded a common Regex Cheat Sheet found online. Core regex syntax tends to be the same across all languages, so you don't have to worry too much about language-specific features for regex, or looking up regex for the wrong language. Although some languages may add in some special bells and whistles for regex, the core functionality and syntax for regex is generally the same across the board. 
 
-<img src='images/regex_cheat_sheet.png'>
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/regex_cheat_sheet.png'>
 
 
 ### The Data
